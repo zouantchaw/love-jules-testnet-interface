@@ -4,6 +4,6 @@ import { config } from "@onflow/fcl";
 config({
   "accessNode.api": "https://rest-testnet.onflow.org",
   "discovery.wallet": "https://fcl-discovery.onflow.org/testnet/authn",
-  "0xProfile": "0xba1132bc08f82fe2" // account address for testnet profile contract
+  "0xLoveJules": "0xd8144e7c81e68eb9" // Yes Jules Testnet contract address
 })
 
